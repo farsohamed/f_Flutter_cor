@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874959767242",
+    "project_id": "corapp-aae2f",
+    "storage_bucket": "corapp-aae2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874959767242:android:87c2aa5b9db12afca55633",
+        "android_client_info": {
+          "package_name": "com.appcor.cor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQd7Q9z3qG588bG7GKI0hrbTuG7_EXoHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874959767242:android:7d7d2d7014afd05aa55633",
+        "android_client_info": {
+          "package_name": "com.applog.cor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQd7Q9z3qG588bG7GKI0hrbTuG7_EXoHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
